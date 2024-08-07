@@ -1,4 +1,4 @@
-# Module 4 Challenge: A Whale off the Port(folio)
+# A Whale off the Port(folio)
 Author: Brigilda Lleshi
 
 The goal of this challenge is to create an analysis notebook to analyze and visualize major metrics of several provided portfolios. The three major components of this challenge are:
